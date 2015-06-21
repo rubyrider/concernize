@@ -1,0 +1,19 @@
+Description:
+    Concerns are very important to keep thing DRY and reusable and decoupling separate stack from your resources. This generator will help generating concern files faster with templates.
+
+Example:
+    rails generate concernize models film concern
+
+    This will create:
+        models/concerns/film_concern.rb
+
+
+    rails generate concernize models film
+
+    This will create:
+        models/concerns/film.rb
+
+    rails generate concernize controllers film
+
+    This will create:
+        controllers/concerns/film.rb

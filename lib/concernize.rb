@@ -1,0 +1,2 @@
+module Concernize
+end
