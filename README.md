@@ -49,4 +49,3 @@ The last argument (concern_namespace) is optional. You can generate a concern wi
 
 MIT-LICENSE. Free for humans :-)
 
-You are not granted rights or licenses to the trademarks of Plataformatec, including without limitation the Devise name or logo.
