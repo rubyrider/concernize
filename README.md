@@ -36,7 +36,7 @@ This will generate a concern file on the following directory
     # end
 
     # class Post < ActiveRecord::Base
-    #    include <%= @concern_module_name %>
+    #    include FileConcern
     # end
 
   end
