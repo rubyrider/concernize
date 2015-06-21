@@ -8,7 +8,7 @@ gem 'concernize'
 
 Run the bundle command to install it.
 
-After you install concernize and add it to your Gemfile, you need to run the generator to generate your concern:
+Once you are done with installation, you are ready to generate your concern files.
 
 ```console
 rails generate concernize models film concern
