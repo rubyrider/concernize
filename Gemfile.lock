@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     concernize (0.0.1)
-      rails
+      rails (~> 4.0)
 
 GEM
   remote: https://rubygems.org/
